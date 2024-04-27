@@ -1,4 +1,4 @@
-git clone link of repsitory   -->   To clone the github repo 
+git clone link of repsitory   -->   To clone the github repo in local area (computer folder)
 ls                            -->   for list files
 ls -a                         -->   for list all files
 git status                    -->   show status
