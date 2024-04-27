@@ -18,3 +18,8 @@ git branch -M main            -->   rename branch to main
 git push -u origin main       -->   use only (git push) after this command
 git pull origin (branch name) -->   used to fetch content of remote repo and immediately 
                                     update the local repo to match that content
+git checkout (branch name)    -->   to navigate branch (direct to branch)
+git checkout -b (branch name) -->   make new branch name
+git branch -d (branch name)   -->   to delete branch
+git diff (branch name)        -->   to compare commits,branches,files and more
+git merge (branch name)       -->   to merge to branches
