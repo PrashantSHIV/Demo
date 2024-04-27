@@ -9,10 +9,12 @@ git status                    -->   show status
 git add file name             -->   adds new or changed files in your working directory in github area
 git add .                     -->   to add all changes 
 git commit -m "some message"  -->   commit message   
-git push origin main          -->   so changes occur in github also changes local to remote
+git push origin (branch name) -->   so changes occur in github also changes local to remote
 git init                      -->   to make folder git repository
 git remote add origin link    -->   set the path of repository
 git remote -v                 -->   to verify remote
 git branch                    -->   to know the branch
 git branch -M main            -->   rename branch to main
 git push -u origin main       -->   use only (git push) after this command
+git pull origin (branch name) -->   used to fetch content of remote repo and immediately 
+                                    update the local repo to match that content
