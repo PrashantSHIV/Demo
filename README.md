@@ -3,4 +3,4 @@ This is my first repository
 <br>
 To track proces
 <br>
-<font color="skyblue ">Author - <font> Prashant
+<p style="color:red">Author <p>-<p style="color:blue"> Prashant<p>
