@@ -28,5 +28,5 @@ git reset (file name)         -->   if we change something and add it by (git ad
                                     add stage.
 git reset                     -->   come back from all file -> (git add .)
 git reset HEAD~1              -->   come back before commit,add changes.
-git reset (commit hash)       -->   go back to navigate commit.
+git reset (commit hash)       -->   go back to navigate committed changes.
 git reset --hard (hash)       -->   reset changes from vs code
