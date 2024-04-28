@@ -27,4 +27,4 @@ git log                       -->   to see changes
 git reset (file name)         -->   if we change something and add it by (git add .) to comeback from
                                     add stage.
 git reset                     -->   come back from all file -> (git add .)
-git reset HEAD~1              -->   come back from 
+git reset HEAD~1              -->   come back before commit,add changes.
